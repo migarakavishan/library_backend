@@ -34,16 +34,7 @@ A RESTful API for managing library books, built with **Node.js**, **Express**, a
 
 ---
 
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/library-management-api.git
-cd library-management-api
-
-
-## Folder Structure
+### Folder Structure
 
  ├── controllers/
  │   └── bookController.js    # Business logic for books
@@ -52,3 +43,16 @@ cd library-management-api
  ├── db.js                    # MySQL connection
  ├── index.js                 # Main server file
  ├── package.json             # Node.js dependencies
+
+---
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/migarakavishan/library_backend.git
+cd library_backend
+
+
+
